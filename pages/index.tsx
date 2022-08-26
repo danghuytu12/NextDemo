@@ -13,7 +13,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main className={styles.main}>
-        njdnasdjsandjsandj
+        Huy Tú3546456546
 
         <p className={styles.description}>
           Get started by editing{' '}
